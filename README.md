@@ -20,7 +20,7 @@ This app is a simple and straighforward app that works through GUIs and produces
 
 The app can run:
 
-1. Via terminal  `mvn clean package`  `mvn exec:java -Dexec.mainClass="pt.rics.uninova.demo.gui.MenuGUIFrame"`
+1. Via terminal <br/>`mvn clean package` <br/>`mvn exec:java -Dexec.mainClass="pt.rics.uninova.demo.gui.MenuGUIFrame"`
 
 2. Via Netbeans IDE
 
